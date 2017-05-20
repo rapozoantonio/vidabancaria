@@ -1,0 +1,26 @@
+.btn-primary {
+	color: #663399;
+    background-color: #FFFF66;
+
+}
+.bg-primary {
+    background-color: #009966;
+}
+.bg-dark {
+    background-color: #663399;
+    color: #fff;
+}
+#homeHeading {
+	color:#009966;
+}
+hr {
+	border-color:#663399;
+}
+header .header-content .header-content-inner p {
+	color:#009966
+}
+a:hover {
+	color:#009966;
+}
+a {
+	color:#663399;}
